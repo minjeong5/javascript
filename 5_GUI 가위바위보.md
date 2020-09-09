@@ -115,5 +115,5 @@ result += ' - 비겼습니다';
 result += ' - 이겼습니다';
 result += ' - 졌습니다';
 
-alert(result);
+alert(result); 
 ```
