@@ -53,6 +53,8 @@
     </script>
 </head>
 <body>
-    <p>Date: <input type="text" id="datepicker"></p>    
+    <p>
+        <label for="datePicker">날짜선택</label>
+        <input type="text" name="datePicker" id="datepicker"></p>
 </body>
 ```
