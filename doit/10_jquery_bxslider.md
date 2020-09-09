@@ -7,16 +7,14 @@
 ### bxSlider 플러그인 기본형, 예시
 | 기본형 | 예시 |
 | --- | --- |
-|
-``` javascript
+| ``` javascript
 참조변수 = $("요소 선택").bxSlider({
     옵션 설정,
 });
-```
-|
-|
+``` |
+| ``` javascript
 var bnn = $(".bannerWrap").bxSlider({
     auto: true,
     autoControls: true
 });
-|
+``` |
