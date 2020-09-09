@@ -13,7 +13,7 @@
 ```
 
 ### [bxSlider 플러그인 사용방법](https://bxslider.com/examples/image-slideshow-captions/)
-** html **
+**html**
 ``` html
 <div class="bxslider">
   <div><img src="/assets/images/coffee1.jpg" title="Funky roots"></div>
@@ -23,7 +23,7 @@
 ```
 
 
-** js **
+**js**
 ``` javascript
 $(function(){
   $('.bxslider').bxSlider({
