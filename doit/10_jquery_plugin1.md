@@ -19,5 +19,5 @@ jQuery(javascript library) 라이브러리
 <head>
     <script src="jquery.js"></script>   // jQuery 연동
     <script src="jqueryplugin.js"></script> // jQuery 플러그인 연동
-</head>
+</head>  
 ```
